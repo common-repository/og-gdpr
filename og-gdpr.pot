@@ -1,0 +1,841 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RODO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-01 09:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: og-gdpr"
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:105
+#, php-format
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:104
+#, php-format
+msgid "%1$s queries in %2$s seconds."
+msgstr ""
+
+#: inc/apf.php:251
+msgid "10 sins of online advertising (PL)"
+msgstr ""
+
+#: inc/apf.php:240
+msgid ""
+"<b>Cache</b>: Disable caching for cookies starting with <code>og-gdpr</code>,"
+" or at least for <code>og-gdpr-saved</code>."
+msgstr ""
+
+#: inc/apf.php:40
+#, php-format
+msgid ""
+"<p><a href=\"%s\">Cookies</a> are very small text files that are stored on "
+"your computer when you visit a website. We use cookies for a variety of "
+"purposes and to enhance your online experience on our website related to "
+"service performance, social media and advertising content.</p><p>You can "
+"change your preferences and accept certain types of cookies and scripts to "
+"load while browsing our website.</p><p>For more details, please see our <a "
+"href=\"%s\">privacy policy</a>."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:74
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Above the header"
+msgstr ""
+
+#: templates/settings.php:120
+msgid "Accept all"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:130
+msgid "Acceptable"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Plugins"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Active Theme"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:110
+msgid "Add"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:114
+msgid "Add Section"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Allow URL File Open"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:63
+msgid "An error occurred while uploading the import file."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:89
+msgid "and"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:71
+msgid "Are you sure you want to reset the options?"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Argument Separator"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:81
+msgid "Author"
+msgstr ""
+
+#: inc/apf.php:179 inc/apf.php:180
+#, php-format
+msgid "Before %s"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:82
+msgid "Categories"
+msgstr ""
+
+#: templates/oembed.php:16
+#, php-format
+msgid "Change <a href=\"%s\">settings</a>"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:135
+msgid "Click here to collapse the contents."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:134
+msgid "Click here to expand to view the contents."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:84
+msgid "Comments"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Constants"
+msgstr ""
+
+#: inc/apf.php:104
+msgid "Cookie name"
+msgstr ""
+
+#: inc/apf.php:117
+msgid "Cookies that are necessary for the website to function properly."
+msgstr ""
+
+#: inc/apf.php:284
+#, php-format
+msgid "Copy template from <code>%s</code> to <code>%s</code>"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:65
+msgid "Could not load the importing data."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "cURL"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Dark"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:85
+msgid "Date"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:138
+msgid "Debug"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:133
+msgid "Debug Info"
+msgstr ""
+
+#: inc/apf.php:53
+msgid "Description"
+msgstr ""
+
+#: templates/settings.php:82
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:124
+msgid "Disabled"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Display Errors"
+msgstr ""
+
+#: inc/apf.php:271
+msgid "Edit appearance"
+msgstr ""
+
+#: og-gdpr.php:35
+msgid ""
+"Enable if you do agree to the use of Google Analytics tracking scripts.<br>"
+"<a href='https://policies.google.com/technologies/partner-sites'>How Google "
+"uses information from sites or apps that use our services</a>"
+msgstr ""
+
+#: templates/settings.php:78
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:123
+msgid "Enabled"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error log location"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Error Reporting Level"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:58
+msgid "Export"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:59
+msgid "Export Options"
+msgstr ""
+
+#: og-gdpr.php:38
+msgid "Facebook Pixel"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "FSOCKOPEN"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Full width"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:127
+msgid "Functional"
+msgstr ""
+
+#: inc/apf.php:116
+msgid "Functional Cookies"
+msgstr ""
+
+#: inc/apf.php:11 inc/apf.php:275 inc/customizer.php:8
+msgid "GDPR"
+msgstr ""
+
+#: inc/apf.php:10
+msgid "GDPR Consent Manager"
+msgstr ""
+
+#. Name of the plugin
+#: og-gdpr.php:87
+msgid "GDPR WP"
+msgstr ""
+
+#: og-gdpr.php:85
+msgid ""
+"GDPR WP stores cookies with the decision of each consent. It does not "
+"collect any data about the user. All cookies start with the prefix <code>og-"
+"rodo</code>."
+msgstr ""
+
+#: inc/apf.php:26
+msgid "General settings"
+msgstr ""
+
+#: inc/apf.php:47
+msgid "Header"
+msgstr ""
+
+#: inc/apf.php:258
+msgid "How the cookie poisoned the Web"
+msgstr ""
+
+#: inc/apf.php:41
+msgid "https://en.wikipedia.org/wiki/Cookie"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://okiemgrafika.pl/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wp-rodo.pl/"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:60
+msgid "Import"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:61
+msgid "Import Options"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:107
+#, php-format
+msgid "Initial memory usage  %1$s MB."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:101
+msgid "Insert"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:70
+msgid "Insert from URL"
+msgstr ""
+
+#: templates/settings.php:31
+msgid "Intended use"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:76
+msgid "Is it okay to send the email?"
+msgstr ""
+
+#: inc/apf.php:167
+msgid "JS code"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Language"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Left side"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Light"
+msgstr ""
+
+#: inc/apf.php:235
+#, php-format
+msgid ""
+"Link to open settings: <code><a href=\"%s\" target=\"_blank\">#og-rodo</a>"
+"</code><br>\n"
+"\t\t\t\t\t\t\t\t\t\t\tIt should be linked on the site and in the privacy "
+"policy"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:136
+msgid "Loading..."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Log Errors"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:91
+msgid "Manage"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Execution Time"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Max Input Vars"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Memory Limit"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multi-site"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Multibite String Extension"
+msgstr ""
+
+#: inc/apf.php:105
+msgid "Name of cookie with consent value"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Network Active Plugins"
+msgstr ""
+
+#: inc/apf.php:132
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:120
+msgid "No"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:65
+msgid "No browser information found."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:67
+msgid "No data could be imported."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:145
+msgid "No file is selected."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:131
+msgid "No log found."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:99
+msgid "No term found."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:75
+#, php-format
+msgid ""
+"Not all form fields could not be sent. Please check your server settings of "
+"PHP <code>max_input_vars</code> and consult the server administrator to "
+"increase the value. <code>max input vars</code>: %1$s. <code>$_POST</code> "
+"count: %2$s"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:128
+msgid "Not Functional"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:126
+msgid "Not Supported"
+msgstr ""
+
+#: inc/apf.php:128
+msgid "oEmbed"
+msgstr ""
+
+#: inc/apf.php:245
+msgid "oEmbed - easy insertion of elements from external services (PL)"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:122
+msgid "Off"
+msgstr ""
+
+#. Author of the plugin
+msgid "OkiemGrafika"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:121
+msgid "On"
+msgstr ""
+
+#: inc/apf.php:280
+msgid "Overriding templates"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:106
+#, php-format
+msgid "Peak memory usage %1$s MB."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Permalink Structure"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:144
+msgid "Please check this box if you want to proceed."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:72
+msgid "Please confirm your action."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:137
+msgid "Please enable JavaScript for better user experience."
+msgstr ""
+
+#: inc/apf.php:22
+msgid "Popup"
+msgstr ""
+
+#: inc/apf.php:177 inc/customizer.php:18
+msgid "Position"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Post Max Size"
+msgstr ""
+
+#: inc/apf.php:48
+msgid "Privacy settings"
+msgstr ""
+
+#: templates/oembed.php:12
+#, php-format
+msgid "Privacy settings - %s"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Registered Post Statuses"
+msgstr ""
+
+#: templates/settings.php:124
+msgid "Reject all"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:111
+msgid "Remove"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:115
+msgid "Remove Section"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:96
+msgid "Remove Value"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:118
+msgid "Reset"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:103
+msgid "Return to Library"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Right side"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Safe Mode"
+msgstr ""
+
+#: inc/apf.php:196
+msgid "Save changes"
+msgstr ""
+
+#: templates/settings.php:92
+msgid "Save your settings"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:100
+msgid "Select"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:97
+msgid "Select All"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:95
+msgid "Select File"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:92
+msgid "Select Image"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:98
+msgid "Select None"
+msgstr ""
+
+#: inc/apf.php:144 templates/settings.php:27
+msgid "Service"
+msgstr ""
+
+#: inc/apf.php:157
+msgid "Service description"
+msgstr ""
+
+#: inc/apf.php:93
+msgid "Service name"
+msgstr ""
+
+#: inc/apf.php:30
+msgid "Services"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Cookie Path"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Name"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Save Path"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Cookies"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Session Use Only Cookies"
+msgstr ""
+
+#: templates/settings.php:116
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:90
+msgid "Settings"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:86
+msgid "Show All"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:87
+msgid "Show All Authors"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple plugin to load tracking scripts based on user consent."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SOAP"
+msgstr ""
+
+#: og-gdpr.php:43
+msgid ""
+"Sometimes we embed YouTube video in post content. Enable if you want to load "
+"YouTube player.<br><a href=\"https://www.youtube.com/static?template=terms\">"
+"YouTube Terms of Service</a>"
+msgstr ""
+
+#: templates/settings.php:35
+msgid "Status"
+msgstr ""
+
+#: og-gdpr.php:29
+msgid "Strictly necessary cookies"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:62
+msgid "Submit"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:143
+msgid "Submit the form."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "SUHOSIN"
+msgstr ""
+
+#: inc/apf.php:291
+msgid "Support"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:125
+msgid "Supported"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Length"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "Table Prefix Status"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:83
+msgid "Tags"
+msgstr ""
+
+#: inc/apf.php:68
+msgid "Text"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:88
+msgid "Thank you for creating with"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:141
+msgid "The ability to repeat fields is disabled."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:140
+msgid "The ability to repeat sections is disabled."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:108
+msgid "The allowed maximum number of fields is {0}."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:112
+msgid "The allowed maximum number of sections is {0}"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:109
+msgid "The allowed minimum number of fields is {0}."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:113
+msgid "The allowed minimum number of sections is {0}"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:78
+msgid "The email has been scheduled."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:77
+msgid "The email has been sent."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:132
+#, php-format
+msgid "The method is called too early: %1$s"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:57
+msgid "The options have been cleared."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:56
+msgid "The options have been updated."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:73
+msgid "The specified options have been deleted."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:66
+msgid "The uploaded file has been imported."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:64
+#, php-format
+msgid "The uploaded file type is not supported: %1$s"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Theme"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:79
+msgid "There was a problem sending the email"
+msgstr ""
+
+#: og-gdpr.php:30
+msgid ""
+"These cookies are essential to provide you with services available through "
+"our website and to enable you to use certain features of our website (for "
+"example, to remember your account login details). Without these cookies, we "
+"cannot provide you certain services on our website."
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:139
+msgid ""
+"This information will be disabled when <code>WP_DEBUG</code> is set to <code>"
+"false</code> in <code>wp-config.php</code>."
+msgstr ""
+
+#: inc/apf.php:218
+msgid "Tips"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:80
+msgid "Title"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:116
+msgid "Toggle All"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:117
+msgid "Toggle all collapsible sections"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:129
+msgid "Too Long"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:93
+msgid "Upload File"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:68
+msgid "Upload Image"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max File Size"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Upload Max Size"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:102
+msgid "Use This"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:94
+msgid "Use This File"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:69
+msgid "Use This Image"
+msgstr ""
+
+#: inc/apf.php:106
+#, php-format
+msgid "Use this with PHP function:<br>%s"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:168
+msgid "Version"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:142
+msgid "Warning."
+msgstr ""
+
+#: inc/apf.php:69
+#, php-format
+msgid ""
+"We use cookies and other tracking technologies to improve your browsing "
+"experience on our website, to show you targeted ads, to analyze our website "
+"traffic, and to understand where our visitors are coming from. You can "
+"manage your cookie settings by clicking on the \"<a href='%s'>Settings</a>\" "
+"button."
+msgstr ""
+
+#: og-gdpr.php:39
+msgid ""
+"We use the Facebook Pixel to target ads to you on Facebook. You can "
+"deactivate the Facebook Pixel and make it not work in your case.<br><a "
+"href=\"https://pixel.facebook.com/about/privacy/\">Data Policy</a>"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:172
+msgid "Web Server"
+msgstr ""
+
+#: vendor/admin-page-framework/factory/_common/form/field_type/AdminPageFramework_FieldType_system.php:92
+msgid "WP_CONTENT_DIR Writeable"
+msgstr ""
+
+#: inc/apf.php:131
+#: vendor/admin-page-framework/factory/_common/_abstract/_model/AdminPageFramework_Message.php:119
+msgid "Yes"
+msgstr ""
